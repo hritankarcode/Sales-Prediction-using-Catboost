@@ -18,6 +18,9 @@ This project implements a machine learning model using **CatBoost Regressor** to
 ---
 
 
+### Sample GUI Prediction Output
+
+![Big Mart Sales Prediction GUI](Screenshot.png)
 
 
 
@@ -40,7 +43,5 @@ pip install pandas numpy seaborn matplotlib scikit-learn catboost joblib
 
 ---
 
-### Sample GUI Prediction Output
 
-![Big Mart Sales Prediction GUI](Screenshot.png)
 
