@@ -17,4 +17,34 @@ This project implements a machine learning model using **CatBoost Regressor** to
 
 ---
 
+---
+
+## How to Use
+
+1. **Train the model:**
+   - Run the notebook `BigMart_Sales_Prediction.ipynb` to preprocess data, train the CatBoost model, and save it as `bigmart_model`.
+   
+2. **Run the GUI application:**
+   - Use `sales_prediction_gui.py` to load the saved model and input features via a simple interface.
+   - The GUI predicts and displays the sales value.
+
+---
+
+## Requirements
+
+- Python 3.x
+- Libraries:
+  - pandas
+  - numpy
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - catboost
+  - joblib
+  - tkinter (usually included with Python)
+
+Install dependencies via:
+```bash
+pip install pandas numpy seaborn matplotlib scikit-learn catboost joblib
+
 
