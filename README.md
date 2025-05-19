@@ -38,6 +38,8 @@ Install dependencies via:
 ```bash
 pip install pandas numpy seaborn matplotlib scikit-learn catboost joblib
 
+---
+
 ### Sample GUI Prediction Output
 
 ![Big Mart Sales Prediction GUI](Screenshot.png)
